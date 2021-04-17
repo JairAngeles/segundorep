@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917806560894",
+    "project_id": "pruebafirebase-5bfba",
+    "storage_bucket": "pruebafirebase-5bfba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917806560894:android:adfd45bef61699f4e2ca2f",
+        "android_client_info": {
+          "package_name": "com.demovil.pruebafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917806560894-8knf8b6j0oso425budsp58penu70e93c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKbmYV-xGcIVYnDrgKw7ila93G3sZTjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917806560894-8knf8b6j0oso425budsp58penu70e93c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
